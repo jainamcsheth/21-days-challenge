@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/21-days-challenge/static/css/main.5f361e03.chunk.css",
+    "main.js": "/21-days-challenge/static/js/main.414dac72.chunk.js",
+    "main.js.map": "/21-days-challenge/static/js/main.414dac72.chunk.js.map",
+    "runtime-main.js": "/21-days-challenge/static/js/runtime-main.5d5e4548.js",
+    "runtime-main.js.map": "/21-days-challenge/static/js/runtime-main.5d5e4548.js.map",
+    "static/js/2.ac6258d0.chunk.js": "/21-days-challenge/static/js/2.ac6258d0.chunk.js",
+    "static/js/2.ac6258d0.chunk.js.map": "/21-days-challenge/static/js/2.ac6258d0.chunk.js.map",
+    "index.html": "/21-days-challenge/index.html",
+    "precache-manifest.f8a97d86f021d896dbbf7a6a6f306292.js": "/21-days-challenge/precache-manifest.f8a97d86f021d896dbbf7a6a6f306292.js",
+    "service-worker.js": "/21-days-challenge/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/21-days-challenge/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ac6258d0.chunk.js.LICENSE.txt": "/21-days-challenge/static/js/2.ac6258d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/21-days-challenge/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d5e4548.js",
+    "static/js/2.ac6258d0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.414dac72.chunk.js"
+  ]
+}
