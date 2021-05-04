@@ -1,0 +1,41 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+button:focus {
+  outline: none;
+}
+
+.rounded-mat-icon {
+  height: 40px !important;
+  width: 40px !important;
+  border-radius: 25px;
+  background-color: rgb(255, 224, 155);
+  padding: 8px;
+  color: white;
+}
+
+.two-col {
+  width: 100%;
+
+  .left-col {
+    width: 30%;
+  }
+
+  .right-col {
+    width: 70%;
+  }
+}
+
+
+// .exapmple-class::-webkit-scrollbar {
+//   display: none;
+// }
+
+// .exapmple-class {
+//   -ms-overflow-style: none;
+// }

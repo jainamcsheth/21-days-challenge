@@ -1,0 +1,418 @@
+{
+  "challenges": [
+    {
+      "id": 1,
+      "name": "First Challenge",
+      "info": "My First Challenge",
+      "days": [
+        {
+          "id": 1,
+          "info": "Day 1 challenge"
+        },
+        {
+          "id": 2,
+          "info": "Day 2 challenge"
+        },
+        {
+          "id": 3,
+          "info": "Day 3 challenge"
+        },
+        {
+          "id": 4,
+          "info": "Day 4 challenge"
+        },
+        {
+          "id": 5,
+          "info": "Day 5 challenge"
+        },
+        {
+          "id": 6,
+          "info": "Day 6 challenge"
+        },
+        {
+          "id": 7,
+          "info": "Day 7 challenge"
+        },
+        {
+          "id": 8,
+          "info": "Day 8 challenge"
+        },
+        {
+          "id": 9,
+          "info": "Day 9 challenge"
+        },
+        {
+          "id": 10,
+          "info": "Day 10 challenge"
+        },
+        {
+          "id": 11,
+          "info": "Day 11 challenge"
+        },
+        {
+          "id": 12,
+          "info": "Day 12 challenge"
+        },
+        {
+          "id": 13,
+          "info": "Day 13 challenge"
+        },
+        {
+          "id": 14,
+          "info": "Day 14 challenge"
+        },
+        {
+          "id": 15,
+          "info": "Day 15 challenge"
+        },
+        {
+          "id": 16,
+          "info": "Day 16 challenge"
+        },
+        {
+          "id": 17,
+          "info": "Day 17 challenge"
+        },
+        {
+          "id": 18,
+          "info": "Day 18 challenge"
+        },
+        {
+          "id": 19,
+          "info": "Day 19 challenge"
+        },
+        {
+          "id": 20,
+          "info": "Day 20 challenge"
+        },
+        {
+          "id": 21,
+          "info": "Day 21 challenge"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Second Challenge",
+      "info": "My Second Challenge",
+      "days": [
+        {
+          "id": 1,
+          "info": "Day 1 challenge"
+        },
+        {
+          "id": 2,
+          "info": "Day 2 challenge"
+        },
+        {
+          "id": 3,
+          "info": "Day 3 challenge"
+        },
+        {
+          "id": 4,
+          "info": "Day 4 challenge"
+        },
+        {
+          "id": 5,
+          "info": "Day 5 challenge"
+        },
+        {
+          "id": 6,
+          "info": "Day 6 challenge"
+        },
+        {
+          "id": 7,
+          "info": "Day 7 challenge"
+        },
+        {
+          "id": 8,
+          "info": "Day 8 challenge"
+        },
+        {
+          "id": 9,
+          "info": "Day 9 challenge"
+        },
+        {
+          "id": 10,
+          "info": "Day 10 challenge"
+        },
+        {
+          "id": 11,
+          "info": "Day 11 challenge"
+        },
+        {
+          "id": 12,
+          "info": "Day 12 challenge"
+        },
+        {
+          "id": 13,
+          "info": "Day 13 challenge"
+        },
+        {
+          "id": 14,
+          "info": "Day 14 challenge"
+        },
+        {
+          "id": 15,
+          "info": "Day 15 challenge"
+        },
+        {
+          "id": 16,
+          "info": "Day 16 challenge"
+        },
+        {
+          "id": 17,
+          "info": "Day 17 challenge"
+        },
+        {
+          "id": 18,
+          "info": "Day 18 challenge"
+        },
+        {
+          "id": 19,
+          "info": "Day 19 challenge"
+        },
+        {
+          "id": 20,
+          "info": "Day 20 challenge"
+        },
+        {
+          "id": 21,
+          "info": "Day 21 challenge"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jainam",
+      "challenges": [
+        {
+          "id": 1,
+          "activeStatus": true,
+          "startDate": "15-06-2020",
+          "days": [
+            {
+              "id": 1,
+              "completed": true,
+              "visited": true
+            },
+            {
+              "id": 2,
+              "completed": true,
+              "visited": true
+            },
+            {
+              "id": 3,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 4,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 5,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 6,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 7,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 8,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 9,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 10,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 11,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 12,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 13,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 14,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 15,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 16,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 17,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 18,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 19,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 20,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 21,
+              "completed": false,
+              "visited": false
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "activeStatus": false,
+          "startDate": null,
+          "days": [
+            {
+              "id": 1,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 2,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 3,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 4,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 5,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 6,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 7,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 8,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 9,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 10,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 11,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 12,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 13,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 14,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 15,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 16,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 17,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 18,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 19,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 20,
+              "completed": false,
+              "visited": false
+            },
+            {
+              "id": 21,
+              "completed": false,
+              "visited": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
